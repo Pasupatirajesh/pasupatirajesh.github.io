@@ -17,13 +17,8 @@
       <div class="container">
       
       {{ content }}  <!-- liquid tags that jekyll uses, to inject content in the final website-->
-      <div class="blurb">
-      <h1> Hi there, Pasupatirajesh here. Learning to write some good Code </h1>
-        <p> I have dabbled in a lot of fields before writing my first line of code two years ago. The reason being fear of failure and lack of self belief.
-        But then two years ago, I decided to start learning to write code. I am currently working on a couple of interesting projects. I would prefer to keep learning
-        and improve upon my knowledge base and work my way up as a software developer. Fingers Crossed.<a href="/About"> Read more about me as I regularly update this webpage.</a> </p>
-        </div>
-        </div>
+      
+      </div><!--/.container-->
         <footer>
         <ul>
           <li><a href="mailto:pasupatirajesh@gmail.com">email</a></li>
