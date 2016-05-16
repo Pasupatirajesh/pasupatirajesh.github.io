@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="icon" href="/images/my_Favicon.png">
+    <link rel="icon" href="/images/favicon(1).ico">
     <title> {{page.title}} 😀 </title>
     <!-- link to main style sheet-->
     <link rel="stylesheet" type="text/css" href="/css/main.css">
