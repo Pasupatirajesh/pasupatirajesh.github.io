@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pasupatirajesh launches site
+title: Pasupatirajesh's current projects
 date: 2016-05-16
 ---
 Today's topic of writing would be about the current projects that I am working on. Along with configuring this website, I am also working
