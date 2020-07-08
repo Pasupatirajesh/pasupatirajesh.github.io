@@ -1,3 +1,5 @@
+lsi: false
+safe: true
 name : Pasupatirajesh Code,Code,Code
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
